@@ -52,12 +52,12 @@
                width: 100%; 
         }
 }
-.primary-btn{
+.btn{
         color: #000;
         background-color: #e1e1e1;
         transition: 0.5s;
 }
-.primary-btn:hover{
+.btn:hover{
         color: #fff;
         background-color: #1eb2a6;
 }

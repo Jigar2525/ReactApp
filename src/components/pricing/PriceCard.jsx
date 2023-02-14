@@ -1,5 +1,6 @@
 import React from 'react'
 import { price } from '../dummydata'
+import './price.css'
 const PriceCard = () => {
   return (
     <>

@@ -37,7 +37,7 @@ const Contact = () => {
                   <textarea cols="30" rows="10">
                     Create a message here...
                   </textarea>
-                  <button className='primary-btn'>SEND A MESSAGE</button>
+                  <button className='btn'>SEND A MESSAGE</button>
                 </form>
                 <h3>Follow us here</h3>
                 <span>FACEBOOK TWITTER INSTAGRAM DRIBBBLE</span>
